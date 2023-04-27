@@ -17,13 +17,13 @@ samples, guidance on mobile development, and a full API reference.
 
  - Start App Apple
 
-    -- ![img_3.png](img_3.png)
+    ![img_3.png](img_3.png)
 
  - Loading Music List App Apple 
 
-    -- ![img_4.png](img_4.png)
+    ![img_4.png](img_4.png)
 
-   - Start App Android
+ - Start App Android
 
-      -- ![img_2.png](img_2.png)
+   ![img_2.png](img_2.png)
     
