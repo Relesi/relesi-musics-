@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
         title: 'Media List',
         theme: ThemeData(
           appBarTheme: AppBarTheme(),
-          primarySwatch: Colors.blue,
+          primarySwatch: Colors.orange,
           accentColor: Colors.black45
         ),
         initialRoute: '/',

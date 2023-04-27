@@ -56,7 +56,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     Icons.search,
                     color: Colors.grey,
                   ),
-                  hintText: "Pesquisa aqui"
+                  hintText: "Search Here!"
                 ),
               ),
             ),
@@ -94,10 +94,10 @@ class _HomeScreenState extends State<HomeScreen> {
           ],
         );
       case Status.ERROR:
-        return Center(child: Text("Por favor tente novamente"),);
+        return Center(child: Text("Please try again"),);
       case Status.INITIAL:
       default:
-        return Center(child: Text('Pesquisa o nome da musica ou artista acima'),);
+        return Center(child: Text('Search the name of the song or artist above'),);
     }
   }
 }
