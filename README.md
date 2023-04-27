@@ -15,15 +15,11 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
- - Start App Apple
+ - Start App 
 
-    ![img_3.png](img_3.png)
+    ![img_5.png](img_5.png)
 
- - Loading Music List App Apple 
-
-    ![img_4.png](img_4.png)
-
- - Start App Android
+ - Start Loading Music List App
 
    ![img_2.png](img_2.png)
     
